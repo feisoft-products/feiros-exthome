@@ -1,2 +1,3 @@
 # feiros-exthome
-FEI-ROS extension home.
+This is where you can fork,upload your extensions and merge.  
+EXTENSIONS MUST BE LICENSED UNDER GPLv3+.
